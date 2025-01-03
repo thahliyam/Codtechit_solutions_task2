@@ -3,7 +3,7 @@ Hello! My name is Thahliya, and I hold an MSc in Mathematics. Currently, I am bu
 
 About the Task
 Task Overview
-This project involves implementing a simple linear regression model using Python. The goal is to explore the relationship between two continuous variables and make predictions based on the model. The steps include splitting the data into training and testing sets, training the model on the training data, evaluating its performance, and visualizing the results. This task demonstrates the practical application of statistical modeling to derive insights and assess predictive accuracy.
+This project involves implementing a simple linear regression model using Excel. The goal is to explore the relationship between two continuous variables and make predictions based on the model. The steps include splitting the data into training and testing sets, training the model on the training data, evaluating its performance, and visualizing the results. This task demonstrates the practical application of statistical modeling to derive insights and assess predictive accuracy.
 
 Steps Followed
 Data Preparation:
