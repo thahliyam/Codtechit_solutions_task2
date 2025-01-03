@@ -10,13 +10,9 @@ Data Preparation:
 
 Loaded the dataset and inspected its structure for usability.
 Selected the independent (predictor) and dependent (target) variables for regression.
-Cleaned and preprocessed the data to ensure consistency and readiness for modeling.
-Splitting the Data:
+Cleaned and preprocessed the data to ensure consistency and readiness for modeling
 
-Divided the dataset into training (80%) and testing (20%) sets using Python's scikit-learn library.
-Model Training:
 
-Trained a simple linear regression model on the training dataset using scikit-learn's LinearRegression class.
 Model Evaluation:
 
 Evaluated the model's performance using metrics such as:
